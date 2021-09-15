@@ -52,7 +52,7 @@
     "strip-bom": "^3.0.0",
     "stylus": "^0.54.5",
     "uglify-js": "^3.0.7",
-    "update-notifier": "^2.3.0"
+    "update-notifier": "^4.0.0"
   },
   "peerDependencies": {
     "@angular/compiler": "^5.0.0 || ^6.0.0-rc.0",
