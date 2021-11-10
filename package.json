@@ -51,7 +51,7 @@
     "sorcery": "^0.10.0",
     "strip-bom": "^3.0.0",
     "stylus": "^0.54.5",
-    "uglify-js": "^3.0.7",
+    "uglify-js": "^3.14.3",
     "update-notifier": "^2.3.0"
   },
   "peerDependencies": {
